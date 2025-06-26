@@ -324,7 +324,7 @@ zabbix_export:
                   x: '14'
                   'y': '6'
                   width: '58'
-                  height: '4'
+                  height: '5'
                   fields:
                     - type: STRING
                       name: items.0
@@ -358,9 +358,9 @@ zabbix_export:
                       value: '10'
                 - type: svggraph
                   x: '14'
-                  'y': '10'
+                  'y': '11'
                   width: '58'
-                  height: '6'
+                  height: '5'
                   fields:
                     - type: STRING
                       name: ds.0.color.0
